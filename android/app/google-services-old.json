@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "122624893286",
+    "project_id": "canco-319211",
+    "storage_bucket": "canco-319211.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:122624893286:android:f43b310d69477c423028a7",
+        "android_client_info": {
+          "package_name": "com.canco"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "122624893286-2p23ggifih563ds4046fv49ta8rovrlo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBV-R6kR9IZc96N_5dVxI0CUZMGZmT9LTI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "122624893286-2p23ggifih563ds4046fv49ta8rovrlo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

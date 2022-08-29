@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "664328630456",
+    "project_id": "canco-convrtx",
+    "storage_bucket": "canco-convrtx.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:664328630456:android:28bf8aad580f38d93d444d",
+        "android_client_info": {
+          "package_name": "com.ackroo.canco"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "664328630456-u57t2fui3k3en8bnbbkrdvbism1epfll.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeB0ub4crd5-i7IQszKrPU9y2qVi_dPKA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "664328630456-u57t2fui3k3en8bnbbkrdvbism1epfll.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "664328630456-1kc16j0krt1jdi8ins7aoahcolmsb0ri.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.convrtx.canco"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:664328630456:android:ba1135644c90baac3d444d",
+        "android_client_info": {
+          "package_name": "com.convrtx.canco"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "664328630456-42oqhpthj7rnmj8q4tknqs8u8nf1gqhh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.convrtx.canco",
+            "certificate_hash": "664cb503011873cf1286cd6155bf618e47f55d34"
+          }
+        },
+        {
+          "client_id": "664328630456-skph25is7drclfepk81a5ck18252t3sc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.convrtx.canco",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "664328630456-u57t2fui3k3en8bnbbkrdvbism1epfll.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeB0ub4crd5-i7IQszKrPU9y2qVi_dPKA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "664328630456-u57t2fui3k3en8bnbbkrdvbism1epfll.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "664328630456-1kc16j0krt1jdi8ins7aoahcolmsb0ri.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.convrtx.canco"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

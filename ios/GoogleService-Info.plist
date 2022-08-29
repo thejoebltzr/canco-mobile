@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>664328630456-4up2nu60f9uhac9jeue584oa2bdjgtjv.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.664328630456-4up2nu60f9uhac9jeue584oa2bdjgtjv</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>664328630456-42oqhpthj7rnmj8q4tknqs8u8nf1gqhh.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD3zH3gzy0gfg2TTVfjppZt7erMF5i3NEY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>664328630456</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.ackroo.canco</string>
+	<key>PROJECT_ID</key>
+	<string>canco-convrtx</string>
+	<key>STORAGE_BUCKET</key>
+	<string>canco-convrtx.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:664328630456:ios:c530542ac35cbac33d444d</string>
+</dict>
+</plist>
